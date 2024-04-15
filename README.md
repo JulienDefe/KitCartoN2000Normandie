@@ -1,5 +1,5 @@
 # KitCartoN2000Normandie
-Site d'accueil de la documentation du Kit de Cartographie des habitats naturels Natura 2000 en Normandie.
+Site d'accueil du Kit de Cartographie des habitats naturels Natura 2000 en Normandie.
 
 La version actuelle est la v5.0, sortie le 15.04.2024.
 
